@@ -1,0 +1,15 @@
+.startBlock {
+  display: block;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  cursor: pointer;
+  transition: margin-left 0.1s ease-in;
+}
+
+.startBlock:hover {
+  margin-left: 10px;
+}
+
+.startBlock i {
+  margin-right: 10px;
+}
