@@ -8,6 +8,10 @@ I've created this project for my students which have no prior knowledge to do it
 Download one of the builds 
 [MacOS](https://github.com/iarickvigasi/NUIS/releases/download/v0.1.1/NUIS-0.1.1.dmg)
 
+## Screenshots 
+[Imgur](https://i.imgur.com/jRuDtTw.png)
+[Imgur](https://i.imgur.com/23zNKIN.png)
+
 ### Installing
 
 To run from source 
