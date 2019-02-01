@@ -6,7 +6,7 @@ I've created this project for my students which have no prior knowledge to do it
 ## Getting Started
 
 Download one of the builds 
-MacOS: 
+[MacOS](https://github.com/iarickvigasi/NUIS/releases/download/v0.1.1/NUIS-0.1.1.dmg)
 
 ### Installing
 
