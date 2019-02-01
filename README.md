@@ -9,8 +9,8 @@ Download one of the builds
 [MacOS](https://github.com/iarickvigasi/NUIS/releases/download/v0.1.1/NUIS-0.1.1.dmg)
 
 ## Screenshots 
-[Imgur](https://i.imgur.com/jRuDtTw.png)
-[Imgur](https://i.imgur.com/23zNKIN.png)
+![First](https://i.imgur.com/23zNKIN.png)
+![Second](https://i.imgur.com/jRuDtTw.png)
 
 ### Installing
 
