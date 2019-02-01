@@ -16,9 +16,14 @@ export default class StepControll extends Component<Props> {
   props: Props;
 
   renderStatus = () => {
-    const { isServerRunning } = this.props;
+    const { isServerRunning, port } = this.props;
     if (isServerRunning) {
-      return <div> Status: Server is UP! </div>;
+      return (
+        <div>
+          Status: Server is UP! <br/>
+          > http://localhost:{port}/
+        </div>
+      )
     }
     return <div> Status: Server is not running </div>;
   };

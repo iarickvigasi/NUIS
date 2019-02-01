@@ -7,6 +7,7 @@ import StepControll from '../components/StepControll';
 function mapStateToProps(state) {
   return {
     serverPath: state.configure.serverPath,
+    port: state.configure.port,
     isServerRunning: state.configure.isServerRunning
   };
 }
